@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listitem_image_width">60dp</dimen>
+    <dimen name="listitem_image_height">60dp</dimen>
+    <dimen name="listitem_marignStart">16dp</dimen>
+    <dimen name="listitem_marignTop">16dp</dimen>
+    <dimen name="listitem_marginEnd">16dp</dimen>
+    <dimen name="listitem_marginBottom">16dp</dimen>
+</resources>

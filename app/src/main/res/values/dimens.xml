@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="detailactivity_imageTop">32dp</dimen>
+    <dimen name="detailactivity_imageStart">32dp</dimen>
+    <dimen name="detailactivity_image_width">200dp</dimen>
+    <dimen name="detailactivity_image_height">200dp</dimen>
+
+
+    <dimen name="detailactivity_textviewStart">60dp</dimen>
+    <dimen name="detailactivity_textviewEnd">210dp</dimen>
+    <dimen name="detailactivity_textviewTop">10dp</dimen>
+
+    <dimen name="navigation_padding">12dp</dimen>
+    <dimen name="navigation_image_width">55dp</dimen>
+    <dimen name="navigation_image_height">55dp</dimen>
+    <dimen name="navigation_textStartingSpace">16dp</dimen>
+    <dimen name="navigation_iconEndingSpace">48dp</dimen>
+
+
+</resources>

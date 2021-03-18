@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">RecyclerView</string>
+    <dimen name="recyclerview_top">57dp</dimen>
+    <dimen name="toolbar_titleSpace">40dp</dimen>
+    <dimen name="relativelayout_width">250dp</dimen>
+</resources>
